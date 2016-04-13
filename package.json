@@ -1,0 +1,21 @@
+{
+  "name": "express-use-middleware",
+  "version": "0.0.1",
+  "description": "根据配置文件自动注册express中间件",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "middleware",
+    "中间件自动注册"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hubcarl/express-use-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hubcarl/express-use-middleware/issues"
+  },
+  "homepage": "https://github.com/hubcarl/express-use-middleware",
+  "author": "sky",
+  "license": "MIT"
+}
